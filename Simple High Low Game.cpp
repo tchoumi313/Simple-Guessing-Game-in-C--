@@ -3,6 +3,10 @@
 #include<conio.h>
 #include<stdlib.h>
 
+/**
+*@author : Donald T
+*@brief A simple guessing game
+*/
 const int totchan=7;
 using namespace std;
 int main()
